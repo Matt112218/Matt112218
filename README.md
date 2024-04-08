@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Colombatti</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [**ADN Patagonico proyect**](https://github.com/mailinadaro/ADN)
+- 🔭 I’m currently working on Personal Portfolio
 
 - 🌱 I’m currently learning **English & Next.JS**
 
